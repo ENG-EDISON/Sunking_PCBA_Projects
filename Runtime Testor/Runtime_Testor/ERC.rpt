@@ -1,0 +1,8 @@
+ERC report (2025-08-12T12:53:45+0300, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_issues]: Symbol 'MB85RC256VPF-G-JNERE2' has been modified in library 'MB85RC256V'
+    ; warning
+    @(1250.00 mils, 5950.00 mils): Symbol U1 [MB85RC256VPF-G-JNERE2]
+
+ ** ERC messages: 1  Errors 0  Warnings 1
